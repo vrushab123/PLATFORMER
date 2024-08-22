@@ -1,6 +1,7 @@
 # Platformer Adventure
 
 Welcome to **Platformer Adventure**, an exciting and challenging platformer game where precision and strategy are key! This game combines dynamic platforming with a shooting mechanic to deliver a fun and engaging experience.
+**PLAY THE GAME** [**HERE**](https://vrushab123.github.io/PLATFORMER/)
 
 ## Overview
 
